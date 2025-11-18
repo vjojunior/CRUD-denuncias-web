@@ -60,4 +60,5 @@ Una simple aplicación web para gestionar denuncias ciudadanas.
     - Para eliminar una denuncia, haga clic en el botón "Eliminar" en la lista de denuncias.
 
 5. Interfaz de usuario:
-    [Interfaz de usuario](media/pag-denunciasMunicipalidad.png)
+   
+    ![Interfaz de usuario](media/pag-denunciasMunicipalidad.png)
